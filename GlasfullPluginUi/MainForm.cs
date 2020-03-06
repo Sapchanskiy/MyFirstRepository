@@ -8,7 +8,7 @@ namespace GlassfullPlugin.UI
     public partial class MainForm : Form
     {
         /// <summary>
-        /// Ссылка на экземпляр, содержащий ссылку на компас. 
+        /// Ссылка на экземпляр, содержащий ссылку на компас. Мы добавили сюда ещё парочку слов для второй лабораторной
         /// </summary>
         private KompasConnector _connector;
 
